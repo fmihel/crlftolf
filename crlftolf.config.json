@@ -1,0 +1,8 @@
+{
+    "paths":[
+        {
+            "from":"./test/jaluzi",
+            "to":"./test/result"
+        }
+    ]
+}
